@@ -1,6 +1,14 @@
 ## ERP developed using Laravel for the api and Vue for the frontend
 
-## Installation
+## Install with Git
+
+Clone repo
+
+```
+git clone https://github.com/muhammadhabibfery/laracommerce-api.git
+```
+
+## Installation with Composer
 
 To install the project you can use composer
 
